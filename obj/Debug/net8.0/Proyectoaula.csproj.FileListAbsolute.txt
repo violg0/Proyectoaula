@@ -1,0 +1,14 @@
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.AssemblyInfoInputs.cache
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.AssemblyInfo.cs
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.csproj.CoreCompileInputs.cache
+C:\Users\acer\workspace\Proyectoaula\bin\Debug\net8.0\Proyectoaula.exe
+C:\Users\acer\workspace\Proyectoaula\bin\Debug\net8.0\Proyectoaula.deps.json
+C:\Users\acer\workspace\Proyectoaula\bin\Debug\net8.0\Proyectoaula.runtimeconfig.json
+C:\Users\acer\workspace\Proyectoaula\bin\Debug\net8.0\Proyectoaula.dll
+C:\Users\acer\workspace\Proyectoaula\bin\Debug\net8.0\Proyectoaula.pdb
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.dll
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\refint\Proyectoaula.dll
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.pdb
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.genruntimeconfig.cache
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\ref\Proyectoaula.dll
