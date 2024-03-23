@@ -12,3 +12,4 @@ C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\refint\Proyectoaula.dll
 C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.pdb
 C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.genruntimeconfig.cache
 C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\ref\Proyectoaula.dll
+C:\Users\acer\workspace\Proyectoaula\obj\Debug\net8.0\Proyectoaula.sourcelink.json
